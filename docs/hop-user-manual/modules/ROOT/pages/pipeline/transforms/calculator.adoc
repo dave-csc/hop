@@ -169,7 +169,7 @@ If you need non-integer calculations, please add a second calculation with minut
 
 All fields of this transform support metadata injection. You can use this transform with ETL Metadata Injection to pass metadata to your pipeline at runtime.
 
-Use the values in the column "Function (Metadata Injection view)" from the table above to specify the operation applied to the fields.
+Use the values in the column "Function (Metadata Injection view)" from the table above to specify the operation (Calculation type) applied to the fields.
 
 == FAQ on length and precision and data types affecting the results
 
